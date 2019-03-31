@@ -39,6 +39,7 @@ Android实验三_UI组件实验，本代码创建了Android工程按要求实现
 ```
 ### 实验结果：
 ![Image text](https://github.com/Apple-Jobs/img-folder/blob/master/ui1.png)<br>
+![Image text](https://github.com/Apple-Jobs/img-folder/blob/master/ui11.png)<br>
 ### 问题：
 开始时由于命名与SimpleAdapter相同而类中找不到方法，已解决。
 
@@ -203,4 +204,4 @@ Android实验三_UI组件实验，本代码创建了Android工程按要求实现
 //    }
 ```
 ### 实验结果：
-![Image text](https://github.com/Apple-Jobs/img-folder/blob/master/u4.png)<br>
+![Image text](https://github.com/Apple-Jobs/img-folder/blob/master/ui4.png)<br>
